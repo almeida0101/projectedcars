@@ -37,5 +37,3 @@ Contribuições são bem-vindas! Para contribuir com o projeto, siga os seguinte
 ### Próximos Passos
 * **Expandir o banco de dados:** Adicionar mais veículos e informações detalhadas.
 * **Integrar com APIs externas:** Buscar informações sobre veículos em APIs de terceiros.
-
-**Observação:** Adapte este README.md de acordo com as especificidades do seu projeto. Inclua informações adicionais sobre as tecnologias utilizadas, a arquitetura da aplicação, e qualquer outra informação relevante.
